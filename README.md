@@ -1,5 +1,6 @@
 # desafio-poo-dio
 
+![image](https://user-images.githubusercontent.com/110746371/209344286-372cdd4c-d069-4cbb-9ada-c7410341b8e3.png)
 Desafio: Aprenda na Prática Programação Orientada a Objetos.
 
 Este repositório foi criado para fins de estudo, como parte da atividade do Bootcamp JAVA.
